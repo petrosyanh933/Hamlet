@@ -1,5 +1,5 @@
 <!-- Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Your%20Hamlet&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=%20Hamlet&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <h2 align="center">Backend / Software Developer</h2>
 <p align="center">
