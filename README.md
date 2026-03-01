@@ -42,9 +42,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea" />
 </p>
 
-- IntelliJ IDEA  
-- DataGrip  
-
 ---
 
 ## 📊 GitHub Analytics
