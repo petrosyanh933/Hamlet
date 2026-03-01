@@ -65,6 +65,19 @@
 
 ---
 
+## 📌 Projects
+
+### Java
+- [Project](ссылка)
+
+### C++
+- [Project](ссылка)
+
+### C#
+- [Project](ссылка)
+
+---
+
 ## 📫 Connect With Me
 
 <p align="center">
