@@ -1,20 +1,20 @@
 <!-- Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Your%20Name&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Your%20Hamlet&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <h2 align="center">Backend / Software Developer</h2>
 <p align="center">
-  Java • C • C++ • C# • System Programming
+  Java • C • C++ • C# • SQL
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Passionate about backend and system development  
-- 🧠 Strong knowledge of OOP and Data Structures  
-- ⚙️ Interested in high-performance applications  
-- 📚 Currently learning Spring Boot & .NET  
-- 🎯 Goal: Become a professional Software Engineer  
+- 💻 Backend & system development enthusiast  
+- 🧠 Strong foundation in OOP and Data Structures  
+- 🗄️ Confident working with relational databases  
+- ⚙️ Interested in high-performance and scalable systems  
+- 🎯 Goal: Professional Software Engineer  
 
 ---
 
@@ -25,10 +25,25 @@
   <img src="https://skillicons.dev/icons?i=java,cpp,c,cs" />
 </p>
 
-### ⚙️ Tools & Technologies
+### 🗄️ Databases & SQL
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
+
+- Microsoft SQL Server  
+- PostgreSQL  
+- Writing complex queries (JOIN, GROUP BY, indexing)  
+- Database schema design  
+
+---
+
+### ⚙️ Tools & IDE
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea" />
+</p>
+
+- IntelliJ IDEA  
+- DataGrip  
 
 ---
 
@@ -45,31 +60,22 @@
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&margin-w=10"/>
-</p>
-
----
-
 ## 📌 Featured Projects
 
-🔹 **Project Name 1** – Java backend application  
-🔹 **Project Name 2** – C++ console system  
-🔹 **Project Name 3** – REST API with C#  
-
-(Добавь ссылки на реальные проекты)
+🔹 **Java REST API** – Backend service with database integration  
+🔹 **C++ System Application** – Performance-oriented console system  
+🔹 **C# Application** – Desktop or backend solution  
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:petrosyanh933@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://t.me/@Hamo1411">
+    <img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
 
