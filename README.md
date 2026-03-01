@@ -1,27 +1,26 @@
-# Hi 👋 I'm Hamlet
-
-💻 Backend / Software Developer  
-🎓 Computer Science Student  
-🌍 Open to opportunities  
-🚀 Passionate about system programming and backend development  
+<h1 align="center">Hi 👋 I'm Hamlet</h1>
+<p align="center">
+  Software Developer • Java • C/C++ • C#
+</p>
 
 ---
 
-## 🚀 About Me
-- I specialize in Java and C-based languages  
-- Interested in backend development and system design  
-- Currently improving my problem-solving skills  
-- Learning advanced algorithms and software architecture  
+### 👨‍💻 About Me
+- Focused on backend and system development  
+- Strong foundation in OOP and algorithms  
+- Improving problem-solving skills  
+- Open to internship and junior opportunities  
 
 ---
 
-## 🛠️ Tech Stack
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+### 🛠 Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white"/>
+</p>
 
 ---
 
