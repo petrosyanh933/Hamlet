@@ -1,28 +1,78 @@
-<h1 align="center">Hi 👋 I'm Hamlet</h1>
+<!-- Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Your%20Name&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<h2 align="center">Backend / Software Developer</h2>
 <p align="center">
-  Software Developer • Java • C/C++ • C#
+  Java • C • C++ • C# • System Programming
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- Focused on backend and system development  
-- Strong foundation in OOP and algorithms  
-- Improving problem-solving skills  
-- Open to internship and junior opportunities  
+## 🚀 About Me
+
+- 💻 Passionate about backend and system development  
+- 🧠 Strong knowledge of OOP and Data Structures  
+- ⚙️ Interested in high-performance applications  
+- 📚 Currently learning Spring Boot & .NET  
+- 🎯 Goal: Become a professional Software Engineer  
 
 ---
 
+## 🛠 Tech Stack
 
-### 🛠 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,cs" />
+</p>
+
+### ⚙️ Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
 
 ---
 
+## 📊 GitHub Analytics
 
-## 📫 Contact Me
-- Email: petrosyanh933@gmail.com
-- Telegram: @Hamo1411
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+🔹 **Project Name 1** – Java backend application  
+🔹 **Project Name 2** – C++ console system  
+🔹 **Project Name 3** – REST API with C#  
+
+(Добавь ссылки на реальные проекты)
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
